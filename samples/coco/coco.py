@@ -48,7 +48,7 @@ import urllib.request
 import shutil
 
 # Root directory of the project
-ROOT_DIR = os.path.abspath("../../")
+ROOT_DIR = os.path.abspath("/home/poojitha/Kathak/myrcnn/Mask_RCNN/")
 
 # Import Mask RCNN
 sys.path.append(ROOT_DIR)  # To find local version of the library
